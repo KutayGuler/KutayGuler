@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KutayGuler
 - 👀 I’m interested in Game & Web Development
-- 🌱 I’m currently learning Svelte.js & Firebase
+- 🌱 I’m currently learning SvelteKit & TypeScript
 - 📫 You can reach me at kutayguler.dev@gmail.com
 
 <!---
